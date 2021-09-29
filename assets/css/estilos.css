@@ -1,0 +1,37 @@
+/*estilos globales*/
+*{
+font-family: 'Roboto', sans-serif
+}
+header,section,footer{
+    background-color: black;
+    color: white;
+}
+hr{
+height: 1px;
+background-color: rgb(52, 132, 182);
+}
+
+/* navbar*/
+nav {
+background-color: rgb(52, 132, 182);;
+}
+
+/*header*/
+.carousel-item img{
+height: 40rem;
+}
+
+/*section*/
+.iconos-seccion{
+text-align: center;
+background-color: rgb(52, 132, 182);
+
+}
+/*footer*/
+footer{
+background-color: rgb(52, 132, 182);
+font-size: 35px;
+}
+.iconos-footer{
+color: white;
+}
